@@ -1,0 +1,2 @@
+rootProject.name='tiktokbupt'
+include ':app'
